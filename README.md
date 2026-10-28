@@ -1,5 +1,5 @@
 # Zapret GUI
-
+claude.ai (Sonnet 5.5)
 Оконная оболочка (один `.exe`, без консоли) для
 [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube).
 
